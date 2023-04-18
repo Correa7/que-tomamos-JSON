@@ -1,0 +1,110 @@
+[
+  {
+      "id": 25,
+      "nombre": "Coctelera Shaker",
+      "categoria": "Cocteleria",
+      "precio": 600,
+      "stock": 10,
+      "img": "https://lh3.googleusercontent.com/pw/AJFCJaWjOTph1QnApsyG8fT8gGo_X6LFA81X0EZd26DcfYin0pnzS1-D5s1BX3WAwJOMhemINmIB0LPiEyOBr0jM48v4taI55owfg_wVcgzAEo7UAQ8nubLX8WlA4An4T1i8qJqV9g-2qhdeNfyjwV1mPK1J6v142ACoru5Rw4eMk2Q5kqzu_1Q4qVrWvECaWqJjmQSdP8Rd1JQ862RU3KFpPo0-BTQmyR3SZZSrFEA_eD8XgRbolP0xmRsrMB1wc0g9kxso1Qd4tUSYTFODCeqdcYRtciY5Sw2sPJKT75F71Vb9VCnSmOP1PPwivyzBaEHLiNTc6jM6k0I4_E3SudD4uUfnb3kl3SO44nPdZq16WRj8JVQGoxbpzSMj6IGFxGrZXhLnLrcXSmbf-Ho9xWCCF6ib4tW7UHuiHLNoL2CgXomGPamup5SGvdYMDIjX8T10xT1La1y5ncHYULUOPeOYpbdEhrZOkdI2nAs8AFi72Cbd1qC_1Zkkqy9xtvueH06vdDstEureykSxLvaIA8NSoEcdtAa2nboApvlKJVvfq1nHLHLkhJ069hGZ4SoI_GIuE4KG_0wmeH7RyZgG7Gv79s_pDhkrH9dsK3Kx8J4e11kOvMzhsFT_V45pRmYExLC_WNfeyCyZ-yVdtyFcCTPyx-cS8BFC4oMGAxK24QPGdieDl542btXg2eZlGcU9uQpfq7e-d9_NmVuTx7qMOsovJOWTcLSWdAg1jfzUDdLGLHHvDgO-Qg-9rRVT6-U4bi0JhgZVIfr49-bdNCrKpxKJr3Fdr8vghFoD8RtyKbg7TXfXPnoIizd5IcnC_-t_ATe0x6RICRmeMTJOhXC9bnlYZyBYjvJM_f_64ur6ELNi9LGSLH_rywgP646Pkwu59w6LjJ5OK_Ekl0dpKYVEkLIRSZLP-w=w836-h836-s-no?authuser=0",
+      "description":"También es conocida como «shaker» o «mixer», su composición más habitual es acero inoxidable, su capacidad más típica oscila entre 500ml a 750ml siendo el tamaño más habitual este último. Lo normal es encontrar una con 3 piezas, vaso, filtro y tapón."
+  },
+  {
+      "id": 18,
+      "nombre": "Coctail Jigger",
+      "categoria": "Cocteleria",
+      "precio": 250,
+      "stock": 10,
+      "img": "https://lh3.googleusercontent.com/pw/AJFCJaWbk9eEZNMZqNIOTYvOLLMJZqB51RYarF4CqcD9m5b6BR1ywM9BwvNpY_ch6Zm3dEXi6uCOR_LLFwDKkODb8wiuxtMvWFBbrOHgK28fe1vZASvjZdLD_4cFsxRlxcfZ63r4W3sY0OxSAamqWijrz6bcTdoutRLlXbQG04kxheOh-qc4y5updmD4fb6NJsn_MRvcm-jDpSP6pzuO6iF58u71inLyE2K6Pzv7rLz3FFa4UGLgfDSTdpEw29VCBTlQzDbZH9U6MRGByL7H_XAQnYn5u1Jwuk1CAvifPurnR3__up5A76eRtCKhgHWDVmNZS32KSVuzBKz6gAIb6V86_ZGd-AWFDxxJrxRbRixaLbs6efuUfvat18q5wQFTu2M5dG5FLOE6YQQDvYXqTXBIS_mFSqvR3rqTfL3t95hXvgpde7mu8nCw9iI6X_Sajlgx7pP9RWFtcd4J4zy_jmZXuaicMTFWWYkM5hB6DuJRoQs5cS2L1uEdGk36LD_Xu9e3e6roTD3imwanEFRvOp2KJjvyyCgbCDxNf-yyhJX8LW4iYyrCRM2-1mdzUafJ4uUmhN-BjjqjuZ60-o_6ER4pnDWne3-2Gfk_vlgSuexyl9PZb8UsKxgLOpj8vOGJmBGwp9IjvKchymlYeUKmhx_uyvcmpKsb7Dn5_avd-uCBNT6pKq1g4dZjoFCyyHsRCxLTeZtRCIfU2ZPqCnBZHsXmEqPA7ovf2eJH2nT37-PWW6OXOF5Dukqt3ueaqGGnfHs624H56a9w1ucqsDM8zYpkjVEZy1iKCIxnWstjWUHwmIxmUPI3YqgyNUCxY559NreFDOhYaOV-wNPvyFiIJbC-eXILMWIepfR_q1oc1VnAWFK8menbRrG3Coq-lYSUIEIoChB2ngEMTC0Cqo6ORM0D47gX6w=w836-h836-s-no?authuser=0",
+      "description":"Lleva dos medidas por ambos lados en diferentes tamaños, siendo la combinación más típica el de una onza (30ml) por arriba y media onza por abajo (15ml)"
+  },
+  {
+      "id": 9,
+      "nombre": "Coctail Colador",
+      "categoria": "Cocteleria",
+      "precio": 250,
+      "stock": 10,
+      "img": "https://lh3.googleusercontent.com/pw/AJFCJaViw0JRS3ujblSyDApR07Qzl1TeFlRhbxz07N3IHHfhd7ATvnRec2uXIOvAVI6DWf5q482nPefCbb60oc4vMkzYHiROhJEILQFtxOKl6iOEIi0-i1RF1lqkwcFTAmHGuUEu-kJneB3PSm3sKjybkOdNmUwIEGwGUUCi3YOklByq8HgA4gLHoV8zA2cb-KmvL3pztfOMWYcMq5RMr6cZ3wIb3bhU_ujnCJnrTHKm4bGDfHTkihVHnphSAWq9pKtZTod1cBDZQsRlttBXZAocqJkqXKZNFg8RxAqLFhxxdumGsrqUPPlIqkBgQs4hl5PvLObcnKAYZ5uDcGyPQXEdKJYKgC9Leo0tzmQVdUdCdrR-jkWri_qjotvFKvotc6bXZBbg2K-VZt3-lNcIjhCKGpZW2MYHk1ruJtfnsf3y0vHskdbk3rmf_LmZxwtCaGjDIqsa0XqMlCOsPKTAzLxgFum_nSPIiFJ6DPny8TVJfgkazPVRH7R1FzjBgKlaJ9NRxsVJad03J4blAkjFCKzHxzoW5mm2q5aouXOm7RrufrjA9t8ZvJLslnu3YkMv3E5kTij8u-Xe1lFCxmg3AHdoNXevi_NSVdftbVi8O3bnehWU3cO1zDjTRsfZmg4BE5ONxO4NsnqDq9kGyCFTyFNEmdqGD9x-bj-aLRmyPDx4wXG3UeLIVUuADiWNliL-prQfxaOclGIZ9pP2qrZFvSsxk7T_9yRYVV2pcMr7zVOPKwP0x_JBtnVFA6UCJpJgu0dYZiikg1GCE2rZ_B5vuS-XOQFy-HrlDJNoaTrolcVGHDOVcmHY75fDgTnJmICJ2H9jfX22Sa0Ee4Zk2eC8f2H_BTd2AAEawwepqbdzg2UPw1QHI19AuI9NU7QbXKLJRbqXGOMaHlh1fBOOmpdYWPo5TkU3ug=w836-h836-s-no?authuser=0",
+      "description":"Es un colador o filtro, que se usa para vaciar el líquido evitando partículas indeseadas como por ejemplo las derivadas de la pulpa de la fruta empleada, así como para verter el producto evitando que los hielos se salgan"
+  },
+  {
+      "id": 21,
+      "nombre": "Coctail Spoon",
+      "categoria": "Cocteleria",
+      "precio": 50,
+      "stock": 10,
+      "img": "https://lh3.googleusercontent.com/pw/AJFCJaUQReRp6-BnJzKam1IbkSXNehIL-rdGf0yfI3mgDpd67NE6HMm74fttm8BFN7z2hVFVwNf5AVQLpJZyKkamjpwbAXv7hB9og5uvN1H0viu97dNdHYgOc1q-NnmEAmx63ahxDUQ7OAusdZSfaZhbRTA8DG3tiEW2twp9RrCHYnHY5hrIdmoDMp2y5eNIQdz9CZrjJcnrOH2AiLb68pWnElTTEJwndjs9nwE5BBbCFzCXejRz8ncEkLij46W28ZtOQBjapOuEA_RBr-sBys1_ZSU72HVhjXXd6GjsjUtrlH0DLciUKXY4lh74ubsIh_QeuZEAU8I6BdcadrBjwQ0uvn93zWklJngM2uMR005T1IkmbpnCbxVqswS6W_NAE7VbnWaCR2sd_dMixGQDSPJahb2S36_Dv_WSLODFw9zZexmlsp7Yj1TqzcZvjju5cGBsz5jjzfr8r_ltxn4DXkfOoOpr9jFx8pzg4gWaaJuIZJve8IvvOABPYwvTLXZjNtRzhsHEy9RkO72ArMTz7icmS9NXx-R6w7IuBgxm9SHcOieXAVVXb9gHKo9QXfCcaY2TmlUqIU3jBVybVvOHalOvKpllFpfc9AHn72Oc8SI1N4JLTY9_7A8nTdnBh7hoUmlM7t8rj0vsVjtJuHOETR45mF8iQYjeDzc22Qc5ggbdeyEJ26UgD_L7x60igZwG3EVLOhaOHzIwao31nktTJzP28lq5e8chYrcfkYI8BJXLsgW0kzW8aJrcwrP1AkUgnVwL_18SEKggjtJi3Vx_qm3UYldt0G3RpwI2WiRfNHay9AsSuq5IkPXz2CoAWz7V4AYAiTnRic5lC0cuxpFu7fa1eoeWpGAl_SWXGRkYsWJq-iQEdhWpB_nnjXecG7kj0K8kGRuiSdutYiba1ttKDx1JJgflqA=w836-h836-s-no?authuser=0",
+      "description":"De largura considerablemente superior a una cuchara tradicional, tiene un uso muy claro en la mezcla de los diferentes ingredientes del coctel"
+  },
+  {
+      "id": 7,
+      "nombre": "Dosificador",
+      "categoria": "Cocteleria",
+      "precio": 200,
+      "stock": 10,
+      "img": "https://lh3.googleusercontent.com/pw/AJFCJaUC7gbWpMVukQ5dEES2qzrfFNu91fjZwBM3HlmaMk5U6-qpwhG_YPtgs4PCR6uZTmSiz402LrJ9W0G8Yme4taRIg4MfsvcXdvKUJmDP9SOmKil3prttV9tF4FAGHargupMUq89Obm4e5v1ZPt9V4c3Q0mIce-pwJGq92Sh2GaO1Ny0lyx3YbKwq_fguTKYrthbK8DAK6xO1xPNVn-NuPkBGOeSbtXsI5nQQ0GtepnynJ_M1B1ACxD6fvQEo_4KMX4-0cwtMIeLkcutBwRf86IjEFU2oBbC5kRpAe1HYPPJWI8DlfBbejETwmreq0SlatIV7fNigT1Of4Kn2bYvfV5vZfXqDbXzkuCx7LyoKa1cTOLL367CfJ8O_qeZD4CGiqcMI4KE5ENcQr57eLUjPP1gbWTIallO3ADQ4pXfEFX21JafepzD1uSgnHDQqHqX-VaIbKtYNIDezSvAj7EGHUYt5grLgUxZ8petF1UkhB2FLaqugOExh9F-ehXcBVSvvNq-kMY36-Pa_Th__Y4R9CyRbpB8uGeTeSCnJcpWT3Q3oek8D-KtOrpsTWIR6L2zT-YwESGODUD8UrwUN923mVkbvVSqxNbBhSQi1p632mjo3B7RxpNLP8vgDGzKGWxB8yyjSXa4pXymzF_061cF2xLF1OtK8BGZE5xEhALaR0_acksQVHLWR6EIdGPdIftpA46XqK4cK-49xHYADOjJZOhtvCClSdBRTY7pomBiymk-Ka84qx61Dzp-gjzBiKSKjIyv4RxMl7hHANNDHZHlCDnbivUsn8IFZiXKJyNgiDxTOoJzDME42HnVxy983XeO9Gy_ASO_Lx9aIQsNumWr4tIneHbuLz4dKa4z6fxWnXYvqfTfcau2PZJkQLig98_cvyar0UipGVEon6X9Umfj_kw4xfg=w836-h836-s-no?authuser=0",
+      "description":"Facilitaran la tarea a la persona que hace los cocteles, de esta manera el flujo de líquido desde la botella hasta el jigger será mucho más preciso y podrá adaptarse a cada circunstancia dependiendo de la necesidad"
+  },
+  {
+      "id": 12,
+      "nombre": "Vaso Highball",
+      "categoria": "Cristaleria",
+      "precio": 30,
+      "stock": 15,
+      "img": "https://lh3.googleusercontent.com/pw/AJFCJaWyvTtCMZPtM44xsA1RnfupnaAD1Y5YC75AmdTNoAhF6lKBMqfgWHcZ5iezyM_a1DkNxFVtCR4c1GuiaLKZHsULM73UowKeIM8KEiCfhIjMiPE3U1bw5HT_znLJwFi6ksfjT0-pscIX80virWbHDyVbw-KfO3tLeDygKeNUGsF6ijW4VyHtGHoySNntsDE33HxFPELTBC3a4WcoZo39aFH3m8aSvZ34WoSfzOVtrKyLx1shImevzJkuSTHWx_EcXTei1pQgDslO7tlg66hlXZDaN-SJ3A3-xYQbd0ZN4aoS7Y_vIq5EMANoyXkxosVkAsxiOu8xKlMZSnqzVUkngLfmz3Q8QfVH-YnUzSIJPOFHNx1-m_JjLaAQoGDKwZI5VILm9M1qJV6X3Ff4-Shk_dQEFQQVK4ANd1e4uO1QVcCZ8jb7OTudW8ZnGNqSX4M4QtknnfLQ3-Vr4hG9xJV1627KteiPoaYKlpdr0WIYH0YrdRtm3Q1yCRKtqsjMgvY9mG00slIuOyLoRjh1h2OrtZNghZh38RiwVYJuWcxzlKlrigowUMr7HOu9qRU26mDtVD9FeXYFGGviJ5Elomv9VDOMajveiN4y71TH0OlX5e0Mmwr0VwR3VJATOvGoxf0yuFFBipWAjhILnveCCb5xfPOSgxZaQG1KVnjF1Gk8bFkw0oFKRTg17Oj1TwfmwoTTjI2YWf6o-2Ty0m42thlrpg4VmJcXi544Xxe3adQSEpgM5dztQlPeSv5O_A1hmLbiOaAQlGEEP01rHbOIcwwcCKtwVgyY3H87NL7wKjotZyD10OxZ7I3oY6b-76YOVocYy2qmsgTZsHj30tXzPKLM_pePN7Ar8o9QneAD_N-fLEC3goRfB4cycDlE0Zyzz2-nI8oLHIaSgjCBtPYOczg36iwm0Q=w836-h836-s-no?authuser=0",
+      "description":"son vasos altos tubulares y tienen un volumen similar (entre 240 y 480 ml). Los vasos collins tienden a ser más altos y más estrechos con más forma de tubo y el vaso highball tiende a ser más ancho y suele alcanzar un máximo de 300 ml. El vaso de tubo se usa para combinados o bebidas largas y se suele rellenar con abundantes cantidades de hielo"
+  },
+  {
+      "id": 2,
+      "nombre": "Vaso Old-Fashioned",
+      "categoria": "Cristaleria",
+      "precio": 25,
+      "stock": 30,
+      "img": "https://lh3.googleusercontent.com/pw/AJFCJaXfozPKs_mUUMGoGlBoJEkOZJ655yJdVQWDgZHgqpFgYnSCo94josSFstVeFhBo-Wqmgh-hwerqD2ApAFcH0wXqeFW9rQ3srrE0M3SES1_d-loCjmQSw1RrsHTK4wEKsG4k1sKdTR3yKEtlSMNUiJ1caQJ59aV8XClVV61ys593ldl0WYuYPitUGXEPNrT1tfA8hnCPHr2aD68rVmSjyd5k9cHnl9ylNUuznKYrrDmn_oJv9EcJgdFdDn8rxmdOJ8aqqWWeCtVg260SvWMM0ukxRMJMi6Mq-hpSHyOot8JBV9CkW_42Grwt6rp_e2CU68bKVKQGOoIiVUs7dMoeLmir3uMEW59KagIWgY-iRUX463GhD4xwhkV1WkzQY2hG66ryRARCMJP_vCsETnpDfyxYVYhB6btSpmIfCF1tzRfFWx5qamFCJUqnmb9cYD6lJKExugNBjIkTXiiAK9OsJjfOe7x2KuD0q5q_wsuKDHCoUDJ_ZMuv4cTLro8XffbyW6oDTBzMEZTY7ZGLxDLUxhF8TgC1tveaIwaTRuWUeBhP_7QbDLQFEg8VTOLZaPpPgWDruaHY8vh_E4fbWZo0nwt61yy1wsezjli_BJUDpQa-cazvcvcfx0HlgZFrlSUJdrXZW7Z0RClIaAGzgAHmcspQlmlLwuUqbsd2D8CDNl3FqUIwtMYCBw-vnypv9sSsGJGVveRkUD0SS37eSkIhc2TAG00OyGTSDiyVWn-LkdG8oCs4rNlB0TV3mixF-vIyWjdbbRWMyRVqK3ivhwyAYErci-SCmM0w0HfuIYZOLF_hOCVnJfOK1HqAc63f_sBX2cP_iZPWaSyyvnyPDBAMGPbCSYjHH2TY9A9K491sN1oNON-CfvTkL496RJGRQxL9U488tYHHVag4PDc47k1boj_Ihg=w836-h836-s-no?authuser=0",
+      "description":"Se usa para bebidas cortas que se sirven solas y con hielo, Suelen contener un volumen de entre 180 y 240 ml. También están disponibles en versión doble de 480 ml. La versión más pequeña es idónea para espirituosos que se sirven solos, como un whisky o ron añejo. Mientras que los más grandes son perfectos para servir con un cubo o bola de hielo de gran tamaño"
+  },
+  {
+      "id": 22,
+      "nombre": "Vasos de Chupitos",
+      "categoria": "Cristaleria",
+      "precio": 10,
+      "stock": 50,
+      "img": "https://lh3.googleusercontent.com/pw/AJFCJaWZpB3os2Gu6XXCvyA26W7guuQFb1TAaOUzmAZ8x3ibqoU73IOTsA5EYLQ45HQeL62IRtB1ZBDTgw7G8jkBL-u8aVLHf8E2FaUw4jgmK5CN6p_vwKQKlKiGWEykBGtDZyTIxlC7YUJjfLiBYPUHsz4iRZd0x9yAOYSY373bSTITatWF_qFfdUql8y6OGHW9L5ffR8m2j2g9cXJ1Ek0l-S0ld_WgNEWEV-2pgd4RlnuBdf41q5QZzvRl0viAo5akw8qpckOJuuB9a4yFMy0KCZGAoNZJEBcgmDzpLHeej4u00RfTNtWuC8lIkV0XW1Onx-TG_jiXPE5DD_YMOBmHIXa4OWa9dVPLdFNpxGanerziTa17jqiM6YP1CId8RG6yChYIza2dBulgcNgLgW_a1KtvYhmjwoWXaqDA5NLJDrvROA3ddGxjLO-O0mNuiQrPOw1j7gNApOKVUfEHPgEIGlMCvkmnh4oEDCYw6UaZeVFH5W_rtJEn0VJTAbU8f1Sk7VpIWJqPB2o0q6PV_zgoKst3hQzpdtVeH3xqtnxOCTIBcq79a9L8WItebYtrDW-QIi60yXvWzJ-9_fTZebs4OF-qrU3nqdpSb-2-0KVJ9ErWwd6lBwcVl0tzeju2bz9bl6n68igDogLa6IQcpxYT4zGsGYgvrgfx1Ibn-pKRIIDvZJXfEmCIOmj6aeLML7BL7z4iUONZcSFHjMufoc2tb0PCwSEMFGDl3YtqmDcf5GGMJPyDifPBRGWbRC0M3l5zfP_z2Fg_9D2A6-tWaQXoKFZid6ARGSqH1uCP4xUDyq8OG_i7ZP4d4cZ0yvopWKiu4vBeGSH7wGT7-nQhB9eWxO5Yc2mhpdoZbVi7OrHJkQncE_fSzgvfkYn_kIl9f9GVDrtZgSckXam4Q51SaHaPiqts-Q=w836-h836-s-no?authuser=0",
+      "description":"Son vasos pequeños, para bebidas que se toman de un solo trago, el chupito típico es de unos 45 ml y suele tener un grosor mayor en la base para poder resistir los golpes que recibe cuando se trata de beber tequila."
+  },
+  {
+      "id": 23,
+      "nombre": "Copa para Martinis",
+      "categoria": "Cristaleria",
+      "precio": 30,
+      "stock": 40,
+      "img": "https://lh3.googleusercontent.com/pw/AJFCJaWQ6cWab5nNjGxCYCl5lSHu80-UbRG9vkN3URO971qbFOxgNmUulcVj4F9YzK-FanNApfSnCIltEDJMwPCudC35Q7dHU91hVUMwX9jzthRn18M4T3i5erlZXOc1mvUM_cSGWnmX0vGQLnB4U2Cx15AYFQfq4Cj27k6jF5t-xiAlrTjkVUwCoBkX1WLHRye31JabRSt2UcambUMjUCKgPfCsG52QCSE7h2-zMt29__39ONOVMXx2hG3di5A8CfOkijrlpbw6C1fMV46S0A10FuoXrTBjxNxbH9baF4DXPfpzk8mQ8JbYkWjP6ILqMhUktIGirK_HJFvxAKZ-HyBcdlaIVDVIB2-D-jjvNTMaajb7B-nK-4axDkZct04Pi2V0tqxUqE23tzpnnFBEnw7Y-u9RvUQ3OfvCBlAH47pZpoUtMcD2wGoHuIgHKfrtW_T0HT8DiAPnBu9UEs7PAOLveSyyQz2KHdcl8DfYqk5UivyYGn0mpDbXAqZYZJo2x8DJDBskS2AI5cdcIzkdA__djmZjG6RcMXEWAnzJ4qtpx6vnPdSWUmgJY2gnWiALdgyuo1ZvjVTd4bloEc47_5Soz3G-DNK7iZPJOjUvhkhzqhz7jUv0QoTnZQ-RFcdjSKi8soN7-rRL5rRf0bJJzpDu9iPTfe5QGm45i8ZuiSRiyRF9a0LyQ_h4ZhE1qksIs4te9k_xPoRQbWOT7jCe8PdElevoHNr2535g-Ahoc9mq3hLUvRgxeZ-tl6F-3Lzn76fx-1KNS9p2PIcmp3cCyE--EaatwehrPyFY955yv2gv7QGENga996WcQJiQ9WkVosvjJcbCAJErzIjHhVfqkefl1yvUyOwEF63oRXZOh2f1En-UqDL0D2lniC8s7oGvEOjjcpmtMCFg6CrWbD1p-5bx_cG79w=w836-h836-s-no?authuser=0",
+      "description":"Se trata de una copa fina y elegante que comenzó siendo exclusividad del Martini pero que actualmente se utiliza para muchas otras recetas, como los conocidos Manhattan o Daiquiris. Su cuerpo tiene la forma de un triángulo invertido y su una boca, muy ancha, va reduciéndose hasta llegar al tallo, normalmente largo. Su capacidad ronda los 200 ml, aunque en la actualidad podemos encontrarla de diversos tamaños."
+  },
+  {
+          "id": 3,
+          "nombre": "Copa para Margaritas",
+          "categoria": "Cristaleria",
+          "precio": 30,
+          "stock": 40,
+          "img": "https://lh3.googleusercontent.com/pw/AJFCJaWLfvRFhUkefsFoRP455tEFhm4lKDfHfl83GNlLWAeGKzcqsoHjYNBVY2qbw0-h3INLaPNaFkTCldIrpMESv68CCjfzQhUGPvmooFdL8NKoNIjuXLSgqVzxN7sz6BXenoWFnMxZA2_D3GFK9DF-7BoaeHLYMDswATl9YExRyf6ZjIxtY91k1UYzScP-NHahsbhWRFvy58VG-zwj_iJVvEXbqQ0zPM7LiZIzJQsTLr3fcXfpnvgi_S-ceyjFYcfgGW8encRs6J2Ry1rTB5MfTLfvcc-kpv-MFlV2xYrtECOYgGflc7CDBhcjm6jkAARwT0sgNV6dYB-7N620HfdqyUDXEeElxfIBwFdX5KcbkZsD2esQ8uzBCcjT8hB4jBUNShw8kAywKwxvu0iVvTCNwS2LCCqz_y90CJHMj0EMmBZpEcRaxWHIYWdkrF9vwT4JlzDGzZMIPn8Ym5UPSTq2aOLw-GtT_evPvJU_V8XSfCehIJB3YOU9uJODRU6spQA5kFxA1EoVPHXsEMVLxTdEoCmA6q28qXF8Wv3cDMdOj6r8MvIJxGauHkxBrvl4Uu1qXCc9g7_1SD_hD__cTDBoNScJIeRjmzmcYnYWuzGrPj5x6XHFIt0t0e1ZffHHyOJthBuIcgp52TwdcP9vuriXGqYAXcHigTv6acqRjdbreJ-THhd2t4uI1uPS8BuXHMRXECQYWwF34L2jQJ_7tetl790ZVKFiov9MviY6ytdUdrIoiTvcopVmb7t2pSkMn3U5zhyuC-1UbboNdVtXXIRV30T1Z6qbMIDEuKBCaQ-wpzzoJx6QaEEfjHlX0G2f_09kSBwrlOw2-YG-EDtPFwiO0iehFnmEJbMRE97qzKZg2hGW5xNl0_jHLhUoQCi7AJA0-L9JDdLlXjO2GoHQWWzZ1zEG5A=w836-h836-s-no?authuser=0",
+          "description":"Recibe su nombre por el famoso cóctel que suele servirse en ella. Su estructura es muy particular y destaca por la pequeña forma ovalada en la que termina su cuerpo, diferenciándose del resto de vasos que conocemos. Este vidrio alcanza un volumen de unos 350 ml aproximadamente. Al igual que la copa Martini, tiene una boca ancha y es de tallo largo, con una base mediana."
+  },
+  {
+          "id": 8,
+          "nombre": "Copa para Champagne",
+          "categoria": "Cristaleria",
+          "precio": 40,
+          "stock": 20,
+          "img": "https://lh3.googleusercontent.com/pw/AJFCJaUvhB3GEyv1zYZqoOCotigdSBaX3goffsKLPQHQSx5QHZIIvcGJzLSNu5DxBdEGMxrO9f-jB_gKs5THneIeegsRmUQcotaIv_5NzXyPSX0VL-ycot4Xi8eI6RSYYV4Z11b78sH78UXp1N_zvOn44J1tvPpxkBbOGEOWbpNKcXVHlH9ujHkFPcVFkgQ5eeVSxAGErt6aC-2M0uoTc52kSyseYpKtpXcsZyuVjg9eGgR9pZ3MESrPWoaD2m0EQEy03qiRdrZYoAp-enUi5xBlMfhMLFbhHrWC6JkZIl9XaT8UGCBUkHLctbPRKH_hbYj7jEIyBq6Pix-0UJ3LlCYvkPQCJYwz4rTSkXwXn-f60peJRPMoStgZItNQZe_vD0mVclDvqH3mF80BhYURQYuSW6_E1ePxeOm5RI0cbbHqB2uugxGc6P-Q0KXnLzfraEq_e-wEtLZ10vFNoMo-FsYHl-eBqTb3qi43EXIsGvjgaCobfpYbi1tJMYSxmR0XQ2y5Mc6TzEqJp5DQZ0cis7glPclwp8NbBe1Hs1uD8LYAjIw8_ECPmsuThkNOCmhC8s5kajN89xrhoEr8lo3Je1aUR4KYH3N0vluUap7_67_RyzoUTSLZm0nwRunQkFHzIMhbZvu9or6sJM3_CpbS0IFGxEKdBPkbMp5d38Qja6Oqdz6aTg3SaJW7plSo6b1Z_7rYHNRIcnJO0liJmXIHUnuV_0jM5QtvxAZb0kUhq9nCyfJQTEyrUMUXOUitOhjBYGmh9Q6mARSBDKmecwCQalHYLl4bl9Eb2Xq1Hpj4ejTDN39VLkxde8-TY3gim6Fnw_l3BH0fgC2hKcVfDLWpXQagHWINVAl18aScNYJoVPnp3HJXQyYdEg7fSBXpWZsX2IX6RaipwC8PN8Ylziqxwc5ksBr-dg=w836-h836-s-no?authuser=0",
+          "description":"En este caso, se trata de un recipiente de boca ancha, aunque con un ligero cierre que ayuda a que su contenido permanezca en el interior. Esta característica será aliada de los cócteles con hielo picado o cuyos ingredientes se sirven tras haber sido triturados. Por otro lado, cualquier elaboración con champagne será adecuada para el uso de este vaso."
+  },
+  {
+        "id": 4,
+        "nombre": "Copa Hurrican",
+        "categoria": "Cristaleria",
+        "precio": 40,
+        "stock": 10,
+        "img": "https://lh3.googleusercontent.com/pw/AJFCJaWLt3amf5Wy1_IINbB6pb0r1kJX5lUqTzdwLg_Gz753yqQUs04eIJRb9yq5L_tvQ73MHjZ6YJmy4ag9QNxYYdU7F4dco2Laj0yjJkmmRZ03dfP9qh2j_HicC90gspq4jfgx-v1VgGCrQRKUtqygm8vEpMB8ync4x9qXNDH1dqcFlippljlVEeF2pwD0ZTE51HcsT987knXopxU2BmpX1XSVrn0FWi7cdwAKXURS49ZyuJQTm9kA5Te0BmJGzul4rg1led-Qnnj2YZ6PKZdXB-4NeJ5tRTz5mqFIL-ekQRKqi9GjIk2kPrTmT74fESvhCxSSReieFrAdCEsPcIuUgSXUikQZstvng_df4ew_BzEOpWX3i2nU6s4ecTSeCEB9xzv8yEKz8Ei5xrRjB3OoZ-psRUAWf-9f_py8mjjMvArbL58rGYfrXjfgPNODzGax0eOiQd7UFMn6pfCUF0B3zagJ63wJUoWk0kPNw04emMxLbUUykvaRBCmvV89pY66O1uBV1qRr1Qv-X8ctjE0_nTmRV6tLBebI0y6knkqwnWT7qAoLHxeqtY-0hK_8LjP0xBxVijxIlRvfSKP2vUevWmbDYCgmTW-C6RcQnIQVI2Hyj4mBSAQb0PYYEbKYA1cnFHUQSb1z4RjyoacpXblox8aa_05ZObb7G_Do5T2J3B0_EcbjwmcmlBbZcCxeVpwxkfq6bdVgNg_M2NPf8WKw76FpwEgKsu_yEpzc620zZF5o_9oo_iUk90T3SPvYHb2PBXPc246bpiENOewkUQq7pkxVQ9qj9s9Zpxnm7N6it_T7GhXSGZ8cmTgwaXPgabgRfxtB7g5n2ysfJodybkeFBm7KYpMQnka6pzH836hthmdiWSTTkmnf0V4xMG5NTeUXe1fxDmSnZCH1lONQGKXYtQ7bGA=w836-h836-s-no?authuser=0",
+        "description":"Es el recipiente más divertido de todos los que proponemos. Se trata de una copa con cuerpo ondulado, que se estrecha en el cuerpo y vuelve a ensancharse en la boca. Posee una gran capacidad, en torno a los 400 ml. Con ella podemos preparar cócteles más elaborados, como la Piña Colada o el San Francisco."
+  }
+]
